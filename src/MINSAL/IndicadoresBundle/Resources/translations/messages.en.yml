@@ -3,13 +3,13 @@ contacto: 'Contact'
 correo_electronico: 'Email'
 telefono: 'Phone Number'
 cargo: 'Title'
-nombre_establecimiento: 'Establisment\'s name'
+nombre_establecimiento: "Establisment's name"
 descripcion: 'Description'
 codigo: 'Code'
-uso_catalogo: 'Will describe catalog's fields'
-no_catalogo_y_describir_catalogo: 'If used to describe a catalog, it can't be associated to one'
+uso_catalogo: "Will describe catalog's fields"
+no_catalogo_y_describir_catalogo: "If used to describe a catalog, it can't be associated to one"
 formula: 'Formula'
-ayuda_ingreso_formula: 'To create/name variables use its initials inside brackets e.g.: {NAI} / {PTDA} * 100 
+ayuda_ingreso_formula: 'To create/name variables use its initials inside brackets e.g.: {NAI} / {PTDA} * 100 '
 vars_sel_diff_vars_formula: 'Variables used in a formula must match those that were already selected'
 sintaxis_invalida: 'Formula has errors'
 sintaxis_invalida_variables_entre_llaves: 'Formula has errors, variables should for inside curly brackets({ }) '
@@ -18,14 +18,14 @@ comentario: 'Comment'
 formato_xxxx-xxxx: 'Format XXXX-XXXX'
 elija_catalogo: 'A catalog must be selected'
 marque_uso_en_catalogo: 'A catalog was specified, this option must be selected'
-categoria_indicador: 'Indicator's Category'
+categoria_indicador: "Indicator's Category"
 categoria: 'Category'
 alertas: 'Alerts'
 indicador: 'Indicator'
 limite_inferior: 'Lower limit'
 limite_superior: 'Upper Limit'
 color: 'Color'
-indicador_alertas: 'Indicator's alerts'
+indicador_alertas: "Indicator's alerts"
 comentario: 'Comment'
 elija_al_menos_una_variable: 'At least one variable must be selected'
 campos_indicador: Dimensions for this indicator
@@ -37,13 +37,16 @@ favoritos: 'Favourites'
 
 'clasificacion_tecnica' : 'Technical Classification'
 'Clasificacion Tecnica List': 'Technical Classification - Listing'
-'Clasificacion Tecnica Delete':'Technical Classification - Delete'
+'Clasificacion Tecnica Delete': "Technical Classification - Delete"
 
 significado_campo: Meaning of fields
 nombre_campo: Name of field
 significado: Meaning
 
-'Origen Datos List': ' Data Sources - Listing'
+'Origen Datos List': 'Data Sources - Listing'
+'Origen Datos Delete': 'Data Sources - Delete'
+'Origen Datos Create': 'Data Sources - Create'
+'Origen Datos Edit': 'Data Sources - Edit'
 
 'responsable_datos': 'Data Manager'
 'Responsable Dato List': 'Data Manager - Listing'
@@ -133,7 +136,7 @@ nombre_variable: 'Variable name'
 nombre: 'Name'
 iniciales: 'Initials'
 confiabilidad: 'Reliability (%)'
-solo_select: ' SQL Statement can only contain  a 'SELECT' keyword, it can not contain UPDATE, DELETE, INSERT or CREATE'
+solo_select: "SQL Statement can only contain  a 'SELECT' keyword, it can not contain UPDATE, DELETE, INSERT or CREATE"
 formulas_indicadores: 'Indicator Formulas'
 variables: 'Variables'
 
@@ -148,17 +151,16 @@ unidad_medida: 'Measurment/Units'
 periodicidad: 'Periodicity'
 estandar_nacional: 'National Standard'
 presentacion: 'Presentation'
-variables: 'Variables'
 btn_create_and_config_data_source: 'Create and set up data source'
 action_merge: 'Merge'
 action_load_data: 'Load Data'
 archivo_asociado: 'Related file'
 subir_nuevo_archivo: 'Upload new file'
 origen_datos: 'Data Source'
-origen_datos_archivo: ' Load data from file: Spreadsheet (Excel/OpenOffice) or  CSV text file.
+origen_datos_archivo: 'Load data from file: Spreadsheet (Excel/OpenOffice) or  CSV text file.'
 origen_datos_sql: 'Load data using an SQL statement'
 tipo_campo_cambiado_a: 'Field type changed to '
-significado_campo_cambiado_a: 'Field's meaning changed to '
+significado_campo_cambiado_a: "Field's meaning changed to"
 flash_batch_load_data_success: 'A process to load data has been started using the specified sources'
 mensaje_fusionar: ' Choose the fields that would be included in the merged data source (Only fields of the same type and meaning can be merged)'
 origen_fusionado: 'Merged source'
